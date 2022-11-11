@@ -1,0 +1,20 @@
+# ignore project data files
+data
+download
+
+# ignore notebooks
+notebooks
+
+# ignore cache and trash
+__pycache__
+.Trash-*
+
+# ignore markdown files
+*.md
+!README*.md
+README-secret.md
+
+# ignore zip files
+*.zip
+*.tar
+*.tar.gz
